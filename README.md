@@ -8,3 +8,7 @@ The files are -
 4. Z test
 5. T test
 6. ggplot visualization
+7. basics of r
+8. array in r
+9. map visualization in r
+10. covid data analysis in r
